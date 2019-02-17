@@ -3,7 +3,7 @@ from PIL import ImageTk, Image
 import speech_recognition as sr
 import pyttsx3, datetime, sys, wikipedia, wolframalpha, os, smtplib, random, webbrowser, pygame, subprocess
 
-client = wolframalpha.Client('8REQUG-YQ7JGY96T8')
+client = wolframalpha.Client('Your_App_ID')
 
 folder = 'C:\\Users\\skt\\Music\\YouTube\\'
 
